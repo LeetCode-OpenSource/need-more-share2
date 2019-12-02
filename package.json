@@ -6,7 +6,7 @@
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-contrib-watch": "^0.6.1",
-    "grunt-contrib-less": "^1.0.1",
+    "grunt-contrib-less": "^2.0.0",
     "grunt-csscomb":"^3.0.0",
     "grunt-contrib-cssmin": "^0.10.0",
     "grunt-contrib-copy": "^0.8.0",
